@@ -1,9 +1,6 @@
-#数据库表
-#创建数据库
 DROP database IF EXISTS `cloud_disk`;
 CREATE DATABASE `cloud_disk`;
 
-#使用数据库
 use `cloud_disk`;
 
 
