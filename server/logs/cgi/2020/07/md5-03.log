@@ -1,0 +1,16 @@
+[2020-07-03 20:37:18]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "e722854fd2595b6c0168b02f8d657d6d",
+    "user": "milo"
+}
+
+[2020-07-03 20:37:18]--[src_cgi/md5_cgi.c:359]--user = milo, token = e722854fd2595b6c0168b02f8d657d6d, md5 = 602fdf30db2aacf517badf4565124f51, filename = Makefile
+[2020-07-03 23:39:38]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "ui_buttongroup.h",
+    "md5": "9f4095fb550d683f4ce6fbf65c335010",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:39:38]--[src_cgi/md5_cgi.c:359]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 9f4095fb550d683f4ce6fbf65c335010, filename = ui_buttongroup.h

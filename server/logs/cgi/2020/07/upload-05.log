@@ -1,0 +1,4 @@
+[2020-07-05 23:49:18]--[src_cgi/upload_cgi.c:681]--milo成功上传[eml.png, 大小：31772, md5码：77f456d737cad6ad2ca7f5607031f216]到本地
+[2020-07-05 23:49:18]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18B9n6AM2JSAAB8HIjqiqs906.png] succ!
+[2020-07-05 23:49:18]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18B9n6AM2JSAAB8HIjqiqs906.png
+[2020-07-05 23:49:18]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('77f456d737cad6ad2ca7f5607031f216', 'group1/M00/00/00/rBAAD18B9n6AM2JSAAB8HIjqiqs906.png', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18B9n6AM2JSAAB8HIjqiqs906.png', '31772', 'png', 1) 文件信息插入成功

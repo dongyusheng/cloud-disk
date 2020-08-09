@@ -1,0 +1,10 @@
+[2020-08-09 12:03:40]--[src_cgi/reg_cgi.c:235]--buf = {
+    "email": "1286550014@qq.com",
+    "firstPwd": "e3b4238e105aa9196dcb6399386a5ba2",
+    "nickName": "dongshao",
+    "phone": "15212584724",
+    "userName": "dongshao"
+}
+
+[2020-08-09 12:03:40]--[src_cgi/reg_cgi.c:127]--mysql_user = root, mysql_pwd = 1286550014, mysql_db = cloud_disk
+[2020-08-09 12:03:40]--[src_cgi/reg_cgi.c:140]--user_name = dongshao, nick_name = dongshao, pwd = e3b4238e105aa9196dcb6399386a5ba2, tel = 15212584724, email = 1286550014@qq.com

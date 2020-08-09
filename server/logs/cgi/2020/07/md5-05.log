@@ -1,0 +1,8 @@
+[2020-07-05 23:49:18]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "eml.png",
+    "md5": "77f456d737cad6ad2ca7f5607031f216",
+    "token": "ca6fd912afd9f9908fde899d4a4de55a",
+    "user": "milo"
+}
+
+[2020-07-05 23:49:18]--[src_cgi/md5_cgi.c:359]--user = milo, token = ca6fd912afd9f9908fde899d4a4de55a, md5 = 77f456d737cad6ad2ca7f5607031f216, filename = eml.png

@@ -1,0 +1,8 @@
+[2020-07-03 20:37:18]--[src_cgi/upload_cgi.c:681]--milo成功上传[Makefile, 大小：33028, md5码：602fdf30db2aacf517badf4565124f51]到本地
+[2020-07-03 20:37:18]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509] succ!
+[2020-07-03 20:37:18]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509
+[2020-07-03 20:37:18]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('602fdf30db2aacf517badf4565124f51', 'group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509', '33028', 'null', 1) 文件信息插入成功
+[2020-07-03 23:39:38]--[src_cgi/upload_cgi.c:681]--milo成功上传[ui_buttongroup.h, 大小：9470, md5码：9f4095fb550d683f4ce6fbf65c335010]到本地
+[2020-07-03 23:39:38]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD17_UTqAQmjGAAAk_uOxU8E23375.h] succ!
+[2020-07-03 23:39:38]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD17_UTqAQmjGAAAk_uOxU8E23375.h
+[2020-07-03 23:39:38]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('9f4095fb550d683f4ce6fbf65c335010', 'group1/M00/00/00/rBAAD17_UTqAQmjGAAAk_uOxU8E23375.h', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD17_UTqAQmjGAAAk_uOxU8E23375.h', '9470', 'h', 1) 文件信息插入成功

@@ -1,0 +1,8 @@
+[2020-07-07 17:23:20]--[src_cgi/upload_cgi.c:681]--milo成功上传[架构.jpg, 大小：70092, md5码：59110cfbd09855a12bf39e623beccfd2]到本地
+[2020-07-07 17:23:20]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18EPwiAGr-KAAERzKZ4Roo046.jpg] succ!
+[2020-07-07 17:23:20]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18EPwiAGr-KAAERzKZ4Roo046.jpg
+[2020-07-07 17:23:20]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('59110cfbd09855a12bf39e623beccfd2', 'group1/M00/00/00/rBAAD18EPwiAGr-KAAERzKZ4Roo046.jpg', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18EPwiAGr-KAAERzKZ4Roo046.jpg', '70092', 'jpg', 1) 文件信息插入成功
+[2020-07-07 17:25:56]--[src_cgi/upload_cgi.c:681]--milo成功上传[mongodb2.png, 大小：187793, md5码：ef33f8e0a6a30355408a8821fa83cece]到本地
+[2020-07-07 17:25:56]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18EP6SAPi87AALdkTYfuEY978.png] succ!
+[2020-07-07 17:25:56]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18EP6SAPi87AALdkTYfuEY978.png
+[2020-07-07 17:25:56]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('ef33f8e0a6a30355408a8821fa83cece', 'group1/M00/00/00/rBAAD18EP6SAPi87AALdkTYfuEY978.png', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18EP6SAPi87AALdkTYfuEY978.png', '187793', 'png', 1) 文件信息插入成功

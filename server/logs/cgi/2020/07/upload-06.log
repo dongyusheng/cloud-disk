@@ -1,0 +1,8 @@
+[2020-07-06 17:13:34]--[src_cgi/upload_cgi.c:43]--mysql:[user=root,pwd=123456,database=0voice_cloud_disk][2020-07-06 17:13:55]--[src_cgi/upload_cgi.c:681]--milo成功上传[jpeg.png, 大小：26785, md5码：da620bb6bf584be1be12390b92e81c91]到本地
+[2020-07-06 17:13:55]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18C61OAMTVGAABooeK2aEg658.png] succ!
+[2020-07-06 17:13:55]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18C61OAMTVGAABooeK2aEg658.png
+[2020-07-06 17:13:55]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('da620bb6bf584be1be12390b92e81c91', 'group1/M00/00/00/rBAAD18C61OAMTVGAABooeK2aEg658.png', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18C61OAMTVGAABooeK2aEg658.png', '26785', 'png', 1) 文件信息插入成功
+[2020-07-06 20:33:03]--[src_cgi/upload_cgi.c:681]--milo成功上传[fla.png, 大小：22174, md5码：511c32ba1f11a2d3a9669f17f4c1966a]到本地
+[2020-07-06 20:33:03]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18DGf-APzquAABWnq-ehjQ534.png] succ!
+[2020-07-06 20:33:03]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18DGf-APzquAABWnq-ehjQ534.png
+[2020-07-06 20:33:03]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('511c32ba1f11a2d3a9669f17f4c1966a', 'group1/M00/00/00/rBAAD18DGf-APzquAABWnq-ehjQ534.png', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18DGf-APzquAABWnq-ehjQ534.png', '22174', 'png', 1) 文件信息插入成功

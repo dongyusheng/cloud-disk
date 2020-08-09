@@ -1,0 +1,26 @@
+[2020-07-03 23:40:48]--[src_cgi/dealsharefile_cgi.c:552]--cmd = cancel
+[2020-07-03 23:40:48]--[src_cgi/dealsharefile_cgi.c:584]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:48]--[src_cgi/dealsharefile_cgi.c:587]--user = milo, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-03 23:40:59]--[src_cgi/dealsharefile_cgi.c:552]--cmd = pv
+[2020-07-03 23:40:59]--[src_cgi/dealsharefile_cgi.c:584]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:59]--[src_cgi/dealsharefile_cgi.c:587]--user = milo, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-03 23:40:59]--[src_cgi/dealsharefile_cgi.c:158]--sql:select pv from share_file_list where md5 = '602fdf30db2aacf517badf4565124f51' and file_name = 'Makefile'
+[2020-07-03 23:40:59]--[src_cgi/dealsharefile_cgi.c:175]--sql:update share_file_list set pv = 1 where md5 = '602fdf30db2aacf517badf4565124f51' and file_name = 'Makefile'
+[2020-07-03 23:41:10]--[src_cgi/dealsharefile_cgi.c:552]--cmd = cancel
+[2020-07-03 23:41:10]--[src_cgi/dealsharefile_cgi.c:584]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "user": "milo"
+}
+
+[2020-07-03 23:41:10]--[src_cgi/dealsharefile_cgi.c:587]--user = milo, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile

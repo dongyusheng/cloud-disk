@@ -1,0 +1,32 @@
+[2020-08-09 11:28:51]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:28:51]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:31:44]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:31:44]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:32:19]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:32:19]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:34:26]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:34:26]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:36:21]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:36:21]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:39:15]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:39:15]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:39:48]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:39:48]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:42:00]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:42:00]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:43:03]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:43:03]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:44:16]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:44:16]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:46:25]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:46:25]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 11:46:59]--[src_cgi/dealfile_cgi.c:41]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:46:59]--[src_cgi/dealfile_cgi.c:46]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-09 13:00:52]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2020-08-09 13:00:52]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_transfer.h",
+    "md5": "42c3b87905d06885e37029085ef49b6a",
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:00:52]--[src_cgi/dealfile_cgi.c:729]--user = dongshao, token = 35a1b6fe583de1e931d17a26205cf5f9, md5 = 42c3b87905d06885e37029085ef49b6a, file_name = ui_transfer.h
+[2020-08-09 13:00:52]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0
+[2020-08-09 13:01:16]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2020-08-09 13:01:16]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "1.txt",
+    "md5": "35d928232a07c228eb4b3b4b32b0c363",
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:01:16]--[src_cgi/dealfile_cgi.c:729]--user = dongshao, token = 35a1b6fe583de1e931d17a26205cf5f9, md5 = 35d928232a07c228eb4b3b4b32b0c363, file_name = 1.txt
+[2020-08-09 13:01:16]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0

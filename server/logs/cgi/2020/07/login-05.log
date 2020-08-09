@@ -1,0 +1,11 @@
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:287]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "milo"
+}
+
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:293]--username = milo, pwd = e10adc3949ba59abbe56e057f20f883e
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:100]--mysql_user = root, mysql_pwd = 123456, mysql_db = 0voice_cloud_disk
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:160]--redis:[ip=127.0.0.1,port=6379]
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:184]--tmp = milo681398220
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:200]--base64 = uEMHoKx9/0ymHuLn7/1HKw==
+[2020-07-05 20:02:51]--[src_cgi/login_cgi.c:302]--token = ca6fd912afd9f9908fde899d4a4de55a

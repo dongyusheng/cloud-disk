@@ -1,0 +1,20 @@
+[2020-07-04 14:26:41]--[src_cgi/upload_cgi.c:681]--milo成功上传[ui_buttongroup.h, 大小：582, md5码：a89390d867d5da18c8b1a95908d7c653]到本地
+[2020-07-04 14:26:41]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h] succ!
+[2020-07-04 14:26:41]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h
+[2020-07-04 14:26:41]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('a89390d867d5da18c8b1a95908d7c653', 'group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h', '582', 'h', 1) 文件信息插入成功
+[2020-07-04 15:31:05]--[src_cgi/upload_cgi.c:681]--milo成功上传[object_script.0voiceCloudDisk.Debug, 大小：776, md5码：4d41f1670e561265d08d8900a5b33550]到本地
+[2020-07-04 15:31:05]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug] succ!
+[2020-07-04 15:31:05]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug
+[2020-07-04 15:31:05]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('4d41f1670e561265d08d8900a5b33550', 'group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug', '776', 'Debug', 1) 文件信息插入成功
+[2020-07-04 21:56:53]--[src_cgi/upload_cgi.c:681]--milo成功上传[ui_login.h, 大小：25499, md5码：0091239159a4e85dd9f132409e845cfc]到本地
+[2020-07-04 21:56:53]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h] succ!
+[2020-07-04 21:56:53]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h
+[2020-07-04 21:56:53]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('0091239159a4e85dd9f132409e845cfc', 'group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h', '25499', 'h', 1) 文件信息插入成功
+[2020-07-04 21:58:29]--[src_cgi/upload_cgi.c:681]--milo成功上传[main.cpp, 大小：198, md5码：5f2a390a60cb3d51355469fea61efa0b]到本地
+[2020-07-04 21:58:29]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp] succ!
+[2020-07-04 21:58:29]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp
+[2020-07-04 21:58:29]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('5f2a390a60cb3d51355469fea61efa0b', 'group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp', '198', 'cpp', 1) 文件信息插入成功
+[2020-07-04 22:00:35]--[src_cgi/upload_cgi.c:681]--milo成功上传[avi.png, 大小：24276, md5码：2869fd80cf88d03946a1d8b74ffabbac]到本地
+[2020-07-04 22:00:35]--[src_cgi/upload_cgi.c:414]--get [group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png] succ!
+[2020-07-04 22:00:35]--[src_cgi/upload_cgi.c:523]--file url is: http://172.16.0.15:80/group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png
+[2020-07-04 22:00:35]--[src_cgi/upload_cgi.c:577]--insert into file_info (md5, file_id, url, size, type, count) values ('2869fd80cf88d03946a1d8b74ffabbac', 'group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png', 'http://172.16.0.15:80/group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png', '24276', 'png', 1) 文件信息插入成功

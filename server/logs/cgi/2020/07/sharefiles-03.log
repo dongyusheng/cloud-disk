@@ -1,0 +1,112 @@
+[2020-07-03 16:25:41]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 16:25:41]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 16:25:41]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:39:12]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:39:12]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 23:39:12]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:39:14]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:39:14]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 23:39:14]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:39:18]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:39:18]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 23:39:18]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:39:19]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:39:19]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 23:39:19]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:39:27]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:39:27]--[src_cgi/sharefiles_cgi.c:72]--select count from user_file_count where user='xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2020-07-03 23:39:27]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:40:16]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:40:16]--[src_cgi/sharefiles_cgi.c:84]--line = 0
+[2020-07-03 23:40:24]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:40:24]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2020-07-03 23:40:25]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2020-07-03 23:40:25]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2020-07-03 23:40:25]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2020-07-03 23:40:25]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2020-07-03 23:40:25]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"602fdf30db2aacf517badf4565124f51",
+			"file_name":	"Makefile",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2020-07-03 23:40:22",
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509",
+			"size":	33028,
+			"type":	"null"
+		}]
+}
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2020-07-03 23:40:43]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"602fdf30db2aacf517badf4565124f51",
+			"file_name":	"Makefile",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2020-07-03 23:40:22",
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509",
+			"size":	33028,
+			"type":	"null"
+		}]
+}
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2020-07-03 23:41:07]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"602fdf30db2aacf517badf4565124f51",
+			"file_name":	"Makefile",
+			"share_status":	1,
+			"pv":	1,
+			"create_time":	"2020-07-03 23:40:54",
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509",
+			"size":	33028,
+			"type":	"null"
+		}]
+}
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = count
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:84]--line = 1
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:605]--cmd = normal
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:643]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:652]--start = 0, count = 1
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:171]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2020-07-03 23:41:46]--[src_cgi/sharefiles_cgi.c:299]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"602fdf30db2aacf517badf4565124f51",
+			"file_name":	"Makefile",
+			"share_status":	1,
+			"pv":	0,
+			"create_time":	"2020-07-03 23:41:15",
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD17_Jn6AM-iuAACBBC5AIsc2532509",
+			"size":	33028,
+			"type":	"null"
+		}]
+}

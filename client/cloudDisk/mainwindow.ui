@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>755</width>
+    <height>621</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="ButtonGroup" name="btn_group" native="true">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget">
+      <widget class="MyFileWg" name="myfiles_page"/>
+      <widget class="ShareList" name="sharefile_page"/>
+      <widget class="RankingList" name="ranking_page"/>
+      <widget class="Transfer" name="transfer_page"/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <customwidgets>
+  <customwidget>
+   <class>ButtonGroup</class>
+   <extends>QWidget</extends>
+   <header>buttongroup.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MyFileWg</class>
+   <extends>QWidget</extends>
+   <header location="global">myfilewg.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>ShareList</class>
+   <extends>QWidget</extends>
+   <header location="global">sharelist.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>Transfer</class>
+   <extends>QWidget</extends>
+   <header location="global">transfer.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>RankingList</class>
+   <extends>QWidget</extends>
+   <header location="global">rankinglist.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

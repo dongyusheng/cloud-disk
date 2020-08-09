@@ -1,0 +1,14 @@
+{
+    "login": {
+        "pwd": "wqq2b4Ild/w=",
+        "remember": "yes",
+        "user": "Mi/CvL0kLkQ="
+    },
+    "type_path": {
+        "path": "conf/fileType"
+    },
+    "web_server": {
+        "ip": "192.168.52.139",
+        "port": "80"
+    }
+}

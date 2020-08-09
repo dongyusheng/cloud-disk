@@ -1,0 +1,56 @@
+[2020-07-03 23:40:03]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-03 23:40:03]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_buttongroup.h",
+    "md5": "9f4095fb550d683f4ce6fbf65c335010",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:03]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 9f4095fb550d683f4ce6fbf65c335010, file_name = ui_buttongroup.h
+[2020-07-03 23:40:13]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2020-07-03 23:40:13]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_buttongroup.h",
+    "md5": "9f4095fb550d683f4ce6fbf65c335010",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:13]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 9f4095fb550d683f4ce6fbf65c335010, file_name = ui_buttongroup.h
+[2020-07-03 23:40:13]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0
+[2020-07-03 23:40:17]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2020-07-03 23:40:17]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_buttongroup.h",
+    "md5": "9f4095fb550d683f4ce6fbf65c335010",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:17]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 9f4095fb550d683f4ce6fbf65c335010, file_name = ui_buttongroup.h
+[2020-07-03 23:40:17]--[src_cgi/dealfile_cgi.c:629]--select pv from user_file_list where user = 'milo' and md5 = '9f4095fb550d683f4ce6fbf65c335010' and file_name = 'ui_buttongroup.h' 操作失败
+[2020-07-03 23:40:22]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-03 23:40:22]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:22]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-03 23:40:54]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-03 23:40:54]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:40:54]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-03 23:41:15]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-03 23:41:15]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-03 23:41:15]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile

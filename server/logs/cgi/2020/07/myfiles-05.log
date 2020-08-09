@@ -1,0 +1,140 @@
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "ca6fd912afd9f9908fde899d4a4de55a",
+    "user": "milo"
+}
+
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:175]--line = 5
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 5,
+    "start": 0,
+    "token": "ca6fd912afd9f9908fde899d4a4de55a",
+    "user": "milo"
+}
+
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:556]--user = milo, token = ca6fd912afd9f9908fde899d4a4de55a, start = 0, count = 5
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'milo' and file_info.md5 = user_file_list.md5 limit 0, 5 在操作
+[2020-07-05 20:02:52]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"a89390d867d5da18c8b1a95908d7c653",
+			"create_time":	"2020-07-04 14:26:41",
+			"file_name":	"ui_buttongroup.h",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h",
+			"size":	582,
+			"type":	"h"
+		}, {
+			"user":	"milo",
+			"md5":	"4d41f1670e561265d08d8900a5b33550",
+			"create_time":	"2020-07-04 15:31:05",
+			"file_name":	"object_script.0voiceCloudDisk.Debug",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug",
+			"size":	776,
+			"type":	"Debug"
+		}, {
+			"user":	"milo",
+			"md5":	"0091239159a4e85dd9f132409e845cfc",
+			"create_time":	"2020-07-04 21:56:53",
+			"file_name":	"ui_login.h",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h",
+			"size":	25499,
+			"type":	"h"
+		}, {
+			"user":	"milo",
+			"md5":	"5f2a390a60cb3d51355469fea61efa0b",
+			"create_time":	"2020-07-04 21:58:29",
+			"file_name":	"main.cpp",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp",
+			"size":	198,
+			"type":	"cpp"
+		}, {
+			"user":	"milo",
+			"md5":	"2869fd80cf88d03946a1d8b74ffabbac",
+			"create_time":	"2020-07-04 22:00:35",
+			"file_name":	"avi.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png",
+			"size":	24276,
+			"type":	"png"
+		}]
+}
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:504]--cmd = count
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "token": "ca6fd912afd9f9908fde899d4a4de55a",
+    "user": "milo"
+}
+
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:175]--line = 5
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:504]--cmd = normal
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:536]--buf = {
+    "count": 5,
+    "start": 0,
+    "token": "ca6fd912afd9f9908fde899d4a4de55a",
+    "user": "milo"
+}
+
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:556]--user = milo, token = ca6fd912afd9f9908fde899d4a4de55a, start = 0, count = 5
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:305]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'milo' and file_info.md5 = user_file_list.md5 limit 0, 5 在操作
+[2020-07-05 20:03:50]--[src_cgi/myfiles_cgi.c:436]--{
+	"files":	[{
+			"user":	"milo",
+			"md5":	"a89390d867d5da18c8b1a95908d7c653",
+			"create_time":	"2020-07-04 14:26:41",
+			"file_name":	"ui_buttongroup.h",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AISGAP6QrAAACRhizVvQ79062.h",
+			"size":	582,
+			"type":	"h"
+		}, {
+			"user":	"milo",
+			"md5":	"4d41f1670e561265d08d8900a5b33550",
+			"create_time":	"2020-07-04 15:31:05",
+			"file_name":	"object_script.0voiceCloudDisk.Debug",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AMDmATF-XAAADCJyG1G02.Debug",
+			"size":	776,
+			"type":	"Debug"
+		}, {
+			"user":	"milo",
+			"md5":	"0091239159a4e85dd9f132409e845cfc",
+			"create_time":	"2020-07-04 21:56:53",
+			"file_name":	"ui_login.h",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiqWAIVtJAABjm5l-kMg56699.h",
+			"size":	25499,
+			"type":	"h"
+		}, {
+			"user":	"milo",
+			"md5":	"5f2a390a60cb3d51355469fea61efa0b",
+			"create_time":	"2020-07-04 21:58:29",
+			"file_name":	"main.cpp",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18AiwWAIfJVAAAAxnRgnrY197.cpp",
+			"size":	198,
+			"type":	"cpp"
+		}, {
+			"user":	"milo",
+			"md5":	"2869fd80cf88d03946a1d8b74ffabbac",
+			"create_time":	"2020-07-04 22:00:35",
+			"file_name":	"avi.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://172.16.0.15:80/group1/M00/00/00/rBAAD18Ai4OATDjtAABe1OvdyN4283.png",
+			"size":	24276,
+			"type":	"png"
+		}]
+}

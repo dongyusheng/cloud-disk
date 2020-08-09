@@ -1,0 +1,326 @@
+[2020-08-09 11:28:51]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:31:44]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:32:19]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:34:26]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:36:21]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:39:15]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:39:48]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:42:00]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:43:03]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:44:16]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:46:25]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 11:46:59]--[src_cgi/myfiles_cgi.c:39]--mysql:[user=root,pwd=1286550014,database=cloud_disk][2020-08-09 12:04:51]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:04:51]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "9d473bf75fd69d5a741ef1449c006a38",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:04:51]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:04:51]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:05:02]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:05:02]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "1a79e71f6e672351ae67e142ac465ee6",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:05:02]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:05:02]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:05:53]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:05:53]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "1a79e71f6e672351ae67e142ac465ee6",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:05:53]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:05:53]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:12:28]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:12:28]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "3b0fb544425fd8edb450925c5c540321",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:12:28]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:12:28]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:12:53]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:12:53]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "bcf67c5b8d8464e020158578226d657d",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:12:53]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:12:53]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:20:44]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:20:44]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "9a82fbdb0ba01554d59f52812b2b4137",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:20:44]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:20:44]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:21:43]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:21:43]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "9018fc0ce858d0fb1512a616c837ee2f",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:21:43]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:21:43]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:21:50]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:21:50]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "9018fc0ce858d0fb1512a616c837ee2f",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:21:50]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:21:50]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:21:54]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:21:54]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "c797e3c3277bdc23ddd8fa4615c480f1",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:21:54]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:21:54]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:29:55]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:29:55]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "f973c8af0f661f270acff0f81da75632",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:29:55]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:29:55]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:31:40]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:31:40]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "6814ffc8fdff381ba723129ac8234270",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:31:40]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:31:40]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:35:53]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:35:53]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "b3cb2672b0d9a6228e8d14e72c0c5c59",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:35:53]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:35:53]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:46:44]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:46:44]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "a0c13b7d11cc3e4239f11e92f4055041",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:46:44]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:46:44]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:46:57]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:46:57]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "7489100141c14a4caa277bb60f28e6af",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:46:57]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:46:57]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:47:00]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:47:00]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "7489100141c14a4caa277bb60f28e6af",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:47:00]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:47:00]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:53:23]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:53:23]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "ad6439381ebebf1154e2cdb4d2ee52ab",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:53:23]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:53:23]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:55:19]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:55:19]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "221baa93e8cec87fdac72d3b59fcd031",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:55:19]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:55:19]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:59:22]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:59:22]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "82cf32ae8a544a24732e2517aafbfce9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:22]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 12:59:22]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "82cf32ae8a544a24732e2517aafbfce9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:177]--line = 1
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:508]--cmd = normal
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "82cf32ae8a544a24732e2517aafbfce9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:562]--user = dongshao, token = 82cf32ae8a544a24732e2517aafbfce9, start = 0, count = 1
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:310]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'dongshao' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2020-08-09 12:59:30]--[src_cgi/myfiles_cgi.c:440]--{
+	"files":	[{
+			"user":	"dongshao",
+			"md5":	"42c3b87905d06885e37029085ef49b6a",
+			"create_time":	"2020-08-09 12:59:28",
+			"file_name":	"ui_transfer.h",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://127.0.0.1:80/group1/M00/00/00/fwAAAV8vgrCAT7n2AAAfEhLUqSE36943.h",
+			"size":	7954,
+			"type":	"h"
+		}]
+}
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "82cf32ae8a544a24732e2517aafbfce9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:177]--line = 1
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:508]--cmd = normal
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "82cf32ae8a544a24732e2517aafbfce9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:562]--user = dongshao, token = 82cf32ae8a544a24732e2517aafbfce9, start = 0, count = 1
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:310]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'dongshao' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2020-08-09 12:59:34]--[src_cgi/myfiles_cgi.c:440]--{
+	"files":	[{
+			"user":	"dongshao",
+			"md5":	"42c3b87905d06885e37029085ef49b6a",
+			"create_time":	"2020-08-09 12:59:28",
+			"file_name":	"ui_transfer.h",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://127.0.0.1:80/group1/M00/00/00/fwAAAV8vgrCAT7n2AAAfEhLUqSE36943.h",
+			"size":	7954,
+			"type":	"h"
+		}]
+}
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:177]--line = 1
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:508]--cmd = normal
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:562]--user = dongshao, token = 35a1b6fe583de1e931d17a26205cf5f9, start = 0, count = 1
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:310]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'dongshao' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2020-08-09 12:59:43]--[src_cgi/myfiles_cgi.c:440]--{
+	"files":	[{
+			"user":	"dongshao",
+			"md5":	"42c3b87905d06885e37029085ef49b6a",
+			"create_time":	"2020-08-09 12:59:28",
+			"file_name":	"ui_transfer.h",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://127.0.0.1:80/group1/M00/00/00/fwAAAV8vgrCAT7n2AAAfEhLUqSE36943.h",
+			"size":	7954,
+			"type":	"h"
+		}]
+}
+[2020-08-09 13:00:56]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:00:56]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:00:56]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 13:00:56]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:177]--line = 1
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:508]--cmd = normal
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:562]--user = dongshao, token = 35a1b6fe583de1e931d17a26205cf5f9, start = 0, count = 1
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:310]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'dongshao' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2020-08-09 13:01:12]--[src_cgi/myfiles_cgi.c:440]--{
+	"files":	[{
+			"user":	"dongshao",
+			"md5":	"35d928232a07c228eb4b3b4b32b0c363",
+			"create_time":	"2020-08-09 13:01:11",
+			"file_name":	"1.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://127.0.0.1:80/group1/M00/00/00/fwAAAV8vgxeAKG8YAAABAlrijf8670.txt",
+			"size":	258,
+			"type":	"txt"
+		}]
+}
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:177]--line = 1
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:508]--cmd = normal
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "count": 1,
+    "start": 0,
+    "token": "35a1b6fe583de1e931d17a26205cf5f9",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:562]--user = dongshao, token = 35a1b6fe583de1e931d17a26205cf5f9, start = 0, count = 1
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:310]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'dongshao' and file_info.md5 = user_file_list.md5 limit 0, 1 在操作
+[2020-08-09 13:01:14]--[src_cgi/myfiles_cgi.c:440]--{
+	"files":	[{
+			"user":	"dongshao",
+			"md5":	"35d928232a07c228eb4b3b4b32b0c363",
+			"create_time":	"2020-08-09 13:01:11",
+			"file_name":	"1.txt",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://127.0.0.1:80/group1/M00/00/00/fwAAAV8vgxeAKG8YAAABAlrijf8670.txt",
+			"size":	258,
+			"type":	"txt"
+		}]
+}
+[2020-08-09 13:14:33]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:14:33]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "f021412e2835074d9a3348abef761662",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:14:33]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 13:14:33]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 13:14:52]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:14:52]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "4f162dd98dec5adb7aac9895121733e0",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:14:52]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 13:14:52]--[src_cgi/myfiles_cgi.c:177]--line = 0
+[2020-08-09 13:16:08]--[src_cgi/myfiles_cgi.c:508]--cmd = count
+[2020-08-09 13:16:08]--[src_cgi/myfiles_cgi.c:540]--buf = {
+    "token": "e43481ddf074513fb5f025f850f8975a",
+    "user": "dongshao"
+}
+
+[2020-08-09 13:16:08]--[src_cgi/myfiles_cgi.c:165]--select count from user_file_count where user='dongshao' 操作失败
+[2020-08-09 13:16:08]--[src_cgi/myfiles_cgi.c:177]--line = 0

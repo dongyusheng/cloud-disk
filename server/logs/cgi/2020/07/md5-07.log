@@ -1,0 +1,16 @@
+[2020-07-07 17:23:20]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "架构.jpg",
+    "md5": "59110cfbd09855a12bf39e623beccfd2",
+    "token": "c8b05de88a75a5cbfe3d4832de43cdd9",
+    "user": "milo"
+}
+
+[2020-07-07 17:23:20]--[src_cgi/md5_cgi.c:359]--user = milo, token = c8b05de88a75a5cbfe3d4832de43cdd9, md5 = 59110cfbd09855a12bf39e623beccfd2, filename = 架构.jpg
+[2020-07-07 17:25:56]--[src_cgi/md5_cgi.c:337]--buf = {
+    "fileName": "mongodb2.png",
+    "md5": "ef33f8e0a6a30355408a8821fa83cece",
+    "token": "c8b05de88a75a5cbfe3d4832de43cdd9",
+    "user": "milo"
+}
+
+[2020-07-07 17:25:56]--[src_cgi/md5_cgi.c:359]--user = milo, token = c8b05de88a75a5cbfe3d4832de43cdd9, md5 = ef33f8e0a6a30355408a8821fa83cece, filename = mongodb2.png

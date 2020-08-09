@@ -1,0 +1,55 @@
+[2020-07-04 14:22:34]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2020-07-04 14:22:34]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-04 14:22:34]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-04 14:24:46]--[src_cgi/dealfile_cgi.c:694]--cmd = del
+[2020-07-04 14:24:46]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "Makefile",
+    "md5": "602fdf30db2aacf517badf4565124f51",
+    "token": "ecf3ac6f8863cd17ed1d3909c4386684",
+    "user": "milo"
+}
+
+[2020-07-04 14:24:46]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = ecf3ac6f8863cd17ed1d3909c4386684, md5 = 602fdf30db2aacf517badf4565124f51, file_name = Makefile
+[2020-07-04 14:24:46]--[src_cgi/dealfile_cgi.c:328]--remove_file_from_storage ret = 0
+[2020-07-04 14:32:31]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-04 14:32:31]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_buttongroup.h",
+    "md5": "a89390d867d5da18c8b1a95908d7c653",
+    "token": "661214b022a1f5689e9cdc6f9f332ff6",
+    "user": "milo"
+}
+
+[2020-07-04 14:32:31]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 661214b022a1f5689e9cdc6f9f332ff6, md5 = a89390d867d5da18c8b1a95908d7c653, file_name = ui_buttongroup.h
+[2020-07-04 14:34:35]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-04 14:34:35]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "ui_buttongroup.h",
+    "md5": "a89390d867d5da18c8b1a95908d7c653",
+    "token": "661214b022a1f5689e9cdc6f9f332ff6",
+    "user": "milo"
+}
+
+[2020-07-04 14:34:35]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 661214b022a1f5689e9cdc6f9f332ff6, md5 = a89390d867d5da18c8b1a95908d7c653, file_name = ui_buttongroup.h
+[2020-07-04 15:32:22]--[src_cgi/dealfile_cgi.c:694]--cmd = pv
+[2020-07-04 15:32:22]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "object_script.0voiceCloudDisk.Debug",
+    "md5": "4d41f1670e561265d08d8900a5b33550",
+    "token": "82b363791cc123e9a50d0fbf60412652",
+    "user": "milo"
+}
+
+[2020-07-04 15:32:22]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 82b363791cc123e9a50d0fbf60412652, md5 = 4d41f1670e561265d08d8900a5b33550, file_name = object_script.0voiceCloudDisk.Debug
+[2020-07-04 15:33:49]--[src_cgi/dealfile_cgi.c:694]--cmd = share
+[2020-07-04 15:33:49]--[src_cgi/dealfile_cgi.c:726]--buf = {
+    "filename": "object_script.0voiceCloudDisk.Debug",
+    "md5": "4d41f1670e561265d08d8900a5b33550",
+    "token": "82b363791cc123e9a50d0fbf60412652",
+    "user": "milo"
+}
+
+[2020-07-04 15:33:49]--[src_cgi/dealfile_cgi.c:729]--user = milo, token = 82b363791cc123e9a50d0fbf60412652, md5 = 4d41f1670e561265d08d8900a5b33550, file_name = object_script.0voiceCloudDisk.Debug
