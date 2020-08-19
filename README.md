@@ -5,12 +5,16 @@
 * Ubuntu 16.04
 * Qt（windows）
 
-### 云盘使用到的技术有：
+### 服务端包含技术有：
 * MySQL数据库、Redis数据库
 * 分布式FastDFS集群搭建
-* Nginx+FastCGI、Nginx+FastDFS使用
-* Qt编写
+* Nginx搭配FastCGI、Nginx搭配FastDFS
 * 通过C API操作FastDFS、FastCGI、Redis、MySQL
+* 以HTTP的接口接收客户端的数据
+
+### 客户端包含技术有：
+* Qt实现客户端
+* 以HTTP的接口访问服务端
 
 ### 项目搭建、解析与参考技术文档，请参阅：
 * 1.项目总体介绍：https://blog.csdn.net/qq_41453285/article/details/107871393
